@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/hackx.unity
+    guid: 8ecb1175292048e40ae8693c318a93d2
+  - enabled: 1
+    path: Assets/prague.unity
+    guid: 18e227d4111b71044a40d3d75de16367
+  - enabled: 1
+    path: Assets/bel.unity
+    guid: 25e5acada7c79304aafeb795597f21aa
+  - enabled: 1
+    path: Assets/south mumbai.unity
+    guid: e048394b299273f4a9177a0bf01457ce
+  - enabled: 1
+    path: Assets/wel.unity
+    guid: c08cdee81046aeb4392fc523f7f53372
+  - enabled: 1
+    path: Assets/petra.unity
+    guid: a8c715666320f7e4a93c8ff33b442738
+  - enabled: 1
+    path: Assets/maldives.unity
+    guid: e8d96b784a83b3848a3e35ead8ee30e3
+  - enabled: 1
+    path: Assets/gateway.unity
+    guid: 94b5e27bdcf5117468dab394cd30e2a9
+  - enabled: 1
+    path: Assets/chi.unity
+    guid: 12848ea4dc843cb4c9f4a0c66e239eb8
+  - enabled: 1
+    path: Assets/krj.unity
+    guid: d9c2f03583a9cdc4dbb149a34a3b7c8a
+  - enabled: 1
+    path: Assets/ctr.unity
+    guid: 66977d0949bcd6b4c9b426912b9009b5
+  m_configObjects: {}
